@@ -1,0 +1,16 @@
+.text p{
+    color: blue;
+}
+p.conclusion{
+    color: green;
+}
+#first-point,
+#second-point,
+#third-point,
+#fourth-point{
+    color: violet;
+}
+
+.point{
+    color: gold;
+}
